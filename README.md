@@ -1,3 +1,7 @@
+# Redux Project #2
+
+#### Redux Markdown Previewer - Patika.dev Redux Project #2 
+
 ![Gif](screen.gif)
 
 ## Available Scripts
