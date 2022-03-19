@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+
+.App {
+  color: white;
+}
+
+*:focus {
+  outline: 0;
+}
+
+* {
+  border: none;
+}

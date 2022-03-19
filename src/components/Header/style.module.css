@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+  margin: 20px 0px 5px 0px;
+  font-size: 38px;
+  font-family: "Poppins", sans-serif;
+}
+
+.exampleBtn {
+  display: block;
+  margin: auto auto 10px auto;
+  padding: 5px 15px;
+  font-family: "Poppins", sans-serif;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s;
+  color: #16697a;
+  background-color: #ffffff;
+}
+
+.exampleBtn:hover {
+  color: #ffa62b;
+}
